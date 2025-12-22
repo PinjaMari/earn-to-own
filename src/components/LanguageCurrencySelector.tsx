@@ -23,6 +23,10 @@ const LanguageCurrencySelector = ({ language, currency, onLanguageChange, onCurr
         >
           <option value="en">English</option>
           <option value="fi">Suomi</option>
+          <option value="sv">Svenska</option>
+          <option value="de">Deutsch</option>
+          <option value="es">Español</option>
+          <option value="pl">Polski</option>
         </select>
       </div>
 
